@@ -1,0 +1,6 @@
+{
+  "name": "Equilibrium Liquid Glass Hero",
+  "description": "A high-fidelity landing page hero section featuring an elegant liquid glass refraction overlay, chromatic light bleed effects, and smooth interactive parallax motion driven by GSAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
